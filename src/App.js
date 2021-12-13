@@ -8,7 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Welcome to my test app....</p>
         <p>
-          <a href="#">Link added</a>
+          <a href="https://ec2-54-168-201-149.ap-northeast-1.compute.amazonaws.com">
+            Link added
+          </a>
         </p>
       </header>
     </div>
